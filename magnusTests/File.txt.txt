@@ -1,0 +1,4 @@
+hi.this is our first comit
+git config --global user.email "alekhyatammisetti0407@gmail.com"
+  git config --global user.name "Alekhya0407"
+
